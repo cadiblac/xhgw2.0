@@ -1,0 +1,62 @@
+index.html  首页
+
+call.html  联系我们
+
+dongtai.html   新闻中心-专委会动态
+
+dt-article.html   专委会动态详情页
+
+event.html   会议活动--食品卫生安全教育高峰论坛
+
+group.htrml   专委会概况 -专委会机构
+
+
+intro.html   专委会简介
+
+leader.html   专委会领导
+
+
+notice.html   专委会通知页
+notice-article.html   专委会通知详情页  
+
+
+rule.html    专委会规章-----中国医药教育协会食品卫生安全教育专业委员会管理办法
+
+rules.html   专委会规章----中国医药教育协会食品卫生安全教育专业委员会工作条例
+
+things.html  专委会大事记
+
+vip-info.html   会员新闻
+
+vip-jion.html  加入会员
+
+vip-qiye.html   企业会员
+
+vip-service.html 会议活动--参会申请
+
+
+公共css:
+base.css 初始化样式
+
+header.css  头部导航样式
+
+footer.css   底部样式
+
+
+
+弹出层使用layer.js
+
+banner.js  首页--食品安全教育考核管理信息平台模块
+
+jquery.superslide.2.1.1.js   首页--轮播图
+
+
+
+
+
+
+
+
+
+
+

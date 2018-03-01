@@ -1,0 +1,68 @@
+
+#igs {
+  margin: 0px auto;
+  width: 1200px;
+  height: 320px;
+  position: relative;
+  overflow: hidden;
+}
+ 
+.ig {
+  position: absolute;
+  width:100%;
+  height:100%;
+}
+ 
+#tabs {
+  position: absolute;
+  list-style: none;
+  background-color: rgba(255,255,255,.5);
+  width:170px;
+  height:30px;
+  left: 50%;
+  bottom: 10px;
+  margin-left:-60px;
+  border-radius: 10px;
+  padding: 5px 0 5px 5px;
+}
+ 
+.tab{
+	float: left;
+	text-align: center;
+	line-height: 30px;
+	width: 30px;
+	height: 30px;
+	font:normal 16px/30px "微软雅黑";
+	cursor: pointer;
+	overflow: hidden;
+	margin-right: 4px;
+	border-radius: 50%;
+	background-color: rgb(200,100,150);
+}
+ 
+.btn{
+  position: absolute;
+  color: #fff;
+  top: 110px;
+  width: 40px;
+  height: 100px;
+  background-color: rgba(255,255,255,.3);
+  font-size: 40px;
+ 	
+  font-weight: bold;
+  text-align: center;
+  line-height: 100px;
+  border-radius: 5px;
+  margin: 0 5px;
+}
+ 
+.btn2{
+  position: absolute;
+  right: 0px;
+}
+ 
+.btn:hover{
+  background-color: rgba(0,0,0,.7);
+}
+
+
